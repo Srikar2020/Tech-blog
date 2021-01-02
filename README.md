@@ -13,6 +13,15 @@ Install all these packages listed bellow & Run the sever npm start.
 The application uses packages such as bcrypt, dotenv, express-handlebars, express-session, handlebars, connect-session-sqcuelize, mysql2, sequelize and path. 
 
 
+# Github URL
+https://github.com/Srikar2020/Tech-blog
+
+
+# Deployement
+
+
+
+
 
 
 
