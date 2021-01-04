@@ -25,6 +25,8 @@ https://github.com/Srikar2020/Tech-blog
 https://srikartechblog.herokuapp.com/
 
 
+# Screenshots
+
 
 
 
