@@ -27,6 +27,7 @@ https://srikartechblog.herokuapp.com/
 
 # Screenshots
 
+Screenshots are in the Images folder of the deployed web application. 
 
 
 
