@@ -14,13 +14,15 @@ The application uses packages such as bcrypt, dotenv, express-handlebars, expres
 
 
 # Github URL
+
 https://github.com/Srikar2020/Tech-blog
+
 
 
 # Deployement
 
 
-
+https://srikartechblog.herokuapp.com/
 
 
 
