@@ -9,6 +9,10 @@ A Tech-blog website that developers can use to communicate post, comment, and li
 Install all these packages listed bellow & Run the sever npm start. 
 
 # Usage 
+# VERY IMPORTANT
+  1. When you create a user id by entering Username & Email & Password. Do not try to refresh twice. 
+
+  2. Go STRAIGHT to the Sign-in AREA on the Web App and Log-in. 
 
 The application uses packages such as bcrypt, dotenv, express-handlebars, express-session, handlebars, connect-session-sqcuelize, mysql2, sequelize and path. 
 
